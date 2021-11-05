@@ -1,3 +1,6 @@
 git is awesome!
 new line
-experiment with amend
+experiment with amenddddd
+some text 1
+some text 2
+some text 333
